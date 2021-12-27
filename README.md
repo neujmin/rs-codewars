@@ -6,7 +6,7 @@ Codewars tasks from RS school
 
 ## Numbers, strings
 
-- 7 kyu https://www.codewars.com/kata/absent-vowel (done)[https://github.com/neujmin/rs-codewars/blob/main/absent_vowel.js]
+- 7 kyu https://www.codewars.com/kata/absent-vowel [done](https://github.com/neujmin/rs-codewars/blob/main/absent_vowel.js)
 - 7 kyu https://www.codewars.com/kata/get-the-middle-character
 - 7 kyu https://www.codewars.com/kata/highest-and-lowest
 - 7 kyu https://www.codewars.com/kata/jaden-casing-strings
